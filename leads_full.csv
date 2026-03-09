@@ -1,0 +1,401 @@
+lead_id,first_name,last_name,email,company,lead_source,status,score,industry,assigned_to,created_date,comments
+LEAD-90000,Herrera,Vincent,vincent.herrera@example.com,Johnson-Brown,Newsletter,Working,30,Healthcare,rep-116,2025-10-09T00:15:32.712872,Also reachable on phone-no +33 700 05 22
+LEAD-90001,Racheu,Martin,rachel.martin@example.com,Drake LLC,Event,Qualified,48,Energy,rep-104,2025-11-20T02:43:50.603289,
+LEAD-90002,Dylan,Watts,dylan.watts@example.com,Yu-Brooks,Newsletter,New,78,Manufacturing,rep-120,2026-02-10T06:54:01.179683,
+LEAD-90003,Samanthg,Holt,samantha.holt@example.com,"Yu, Banks and Thompson",Newsletter,Working,38,Technology,rep-103,2026-02-20T01:59:42.831461,Only from follow wish run join.
+LEAD-90004,Contreras,Joel,joel.contreras@example.com,"Fry, Myers and Gamble",LinkedIn,Disqualified,26,Finance,rep-107,2026-02-18T18:47:53.795094,
+LEAD-90005,Valerie,Grant,valerie.grant@example.com,"Walker, Cunningham and Zuniga",Newsletter,Qualified,76,Finance,rep-116,2025-04-23T15:04:24.638815,
+LEAD-90006,Williams,Grant,grant.williams@example.com,Underwood Ltd,Newsletter,Disqualified,53,Energy,rep-120,2025-10-22T16:26:53.799105,
+LEAD-90007,Li,Kristen,kristen.li@example.com,Williams Group,Event,Qualified,76,Technology,rep-109,2025-11-25T19:53:14.490591,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90008,Victoria,Patterson,victoria.patterson@example.com,Poole PLC,Referral,New,37,Energy,rep-107,2025-10-27T00:28:13.647207,This manage her national.
+LEAD-90009,Gibbs,Catherine,catherine.gibbs@example.com,Jones and Sons,Event,New,73,Manufacturing,rep-110,2026-01-21T13:37:11.602037,Also reachable on phone-no +33 700 05 22
+LEAD-90010,Sheilo,Ramirez,sheila.ramirez@example.com,"Galloway, Barry and Bush",Event,Disqualified,69,Finance,rep-100,2025-08-07T19:06:15.586281,
+LEAD-90011,Jamem,Morton,james.morton@example.com,Ortiz PLC,Referral,Qualified,69,Manufacturing,rep-117,2025-11-21T23:26:24.848035,
+LEAD-90012,Davix,Torres,david.torres@example.com,Smith-Miller,Event,Qualified,75,Manufacturing,rep-100,2025-12-29T04:18:48.810734,Enter example down anyone occur style child.
+LEAD-90013,Wilson,Kari,kari.wilson@example.com,Ruiz-Jacobson,Newsletter,Working,79,Energy,rep-119,2025-06-08T01:11:32.798680,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90014,Jennifea,Rios,jennifer.rios@example.com,Elliott-Hernandez,LinkedIn,New,30,Manufacturing,rep-104,2025-11-12T15:19:28.933845,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90015,Byrd,Darlene,darlene.byrd@example.com,"Perez, Brown and Hughes",Referral,Disqualified,61,Energy,rep-114,2025-09-10T03:03:29.837568,
+LEAD-90016,Smith,Renee,renee.smith@example.com,Shaw PLC,Referral,Disqualified,52,Technology,rep-115,2025-12-20T14:46:58.957006,Reach view of dog federal house take.
+LEAD-90017,Michael,Davis,michael.davis@example.com,Mcneil Group,Event,New,25,Technology,rep-107,2025-05-16T00:12:12.411394,Challenge we last we cold deep cover amount.
+LEAD-90018,Lori,Briggs,lori.briggs@example.com,Stone-Stark,Event,Working,36,Manufacturing,rep-103,2025-03-07T18:36:20.088175,Also reachable on phone-no +33 700 05 22
+LEAD-90019,Jasog,Kane,jason.kane@example.com,Hart Inc,Referral,Qualified,41,Finance,rep-119,2025-12-15T05:53:06.418836,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90020,Katelyw,Mitchell,katelyn.mitchell@example.com,Thomas-Franklin,Referral,New,94,Technology,rep-109,2025-11-11T14:41:44.039623,
+LEAD-90021,Betv,Daniels,beth.daniels@example.com,Reese LLC,Event,New,95,Energy,rep-103,2026-01-24T21:23:20.879070,How these real.
+LEAD-90022,Jamiy,Thomas,jamie.thomas@example.com,Garrison-Cohen,LinkedIn,New,92,Technology,rep-111,2026-02-21T10:53:58.814118,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90023,Debrn,Moody,debra.moody@example.com,Jacobs-Davis,LinkedIn,Qualified,21,Manufacturing,rep-115,2025-08-11T14:12:33.071771,
+LEAD-90024,Sophia,Torres,sophia.torres@example.com,Mckinney-Powell,Newsletter,Working,75,Energy,rep-116,2025-12-13T08:02:49.913422,Scientist service test start middle city.
+LEAD-90025,Erii,Alexander,eric.alexander@example.com,Bush-Hill,Newsletter,Qualified,61,Energy,rep-102,2025-12-29T00:53:09.641172,These ahead cover strategy student economic lead.
+LEAD-90026,Collins,William,william.collins@example.com,Matthews-Bailey,Newsletter,Disqualified,63,Technology,rep-115,2025-05-01T23:32:54.965746,
+LEAD-90027,Holloway,Stacy,stacy.holloway@example.com,"Chan, Lewis and Walker",Event,Qualified,53,Healthcare,rep-108,2025-05-24T11:30:20.245727,See read expect hit clear.
+LEAD-90028,Ashlew,Rodriguez,ashley.rodriguez@example.com,Wells and Sons,Web,Working,30,Energy,rep-113,2025-10-25T16:55:52.229011,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90029,Brown,Amber,amber.brown@example.com,Stevens-Robinson,Newsletter,Disqualified,77,Technology,rep-102,2025-06-21T14:45:31.879041,Also reachable on phone-no +33 700 05 22
+LEAD-90030,Abigail,Hanson,abigail.hanson@hotmail.com,"Holland, Lynch and Evans",Newsletter,Working,59,Finance,rep-111,2025-04-11T17:50:45.132101,
+LEAD-90031,Caleb,Mcneil,caleb.mcneil@hotmail.com,Yoder PLC,LinkedIn,Qualified,74,Finance,rep-110,2025-07-28T20:27:26.355394,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90032,Luis,Taylor,luis.taylor@gmail.com,Cooper Ltd,Newsletter,Qualified,59,Healthcare,rep-107,2025-05-23T11:24:35.608426,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90033,Amanda,Glover,amanda.glover@hotmail.com,Figueroa Ltd,Event,Qualified,35,Finance,rep-105,2025-12-23T11:58:33.075747,Also reachable on phone-no +33 700 05 22
+LEAD-90034,Kathryn,White,kathryn.white@hotmail.com,Green-Carter,Newsletter,Qualified,95,Finance,rep-119,2026-01-08T03:45:50.949821,
+LEAD-90035,Thomas,Delacruz,thomas.delacruz@hotmail.com,Taylor and Sons,Event,Qualified,49,Healthcare,rep-105,2025-07-06T09:59:22.093855,
+LEAD-90036,Vanessa,Orozco,vanessa.orozco@yahoo.com,"Hatfield, Edwards and Brown",LinkedIn,Working,55,Technology,rep-101,2025-08-15T08:49:03.391884,
+LEAD-90037,Jason,Ayala,jason.ayala@hotmail.com,"Jordan, Patterson and Woods",Event,Disqualified,33,Technology,rep-118,2025-03-04T23:09:21.741964,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90038,Amanda,Cross,amanda.cross@gmail.com,Collins-Garcia,Newsletter,Disqualified,63,Energy,rep-101,2025-09-03T02:21:15.377044,Series most adult above safe difficult.
+LEAD-90039,Kevin,Brown,kevin.brown@gmail.com,"Cowan, Cooper and Valenzuela",Web,New,71,Manufacturing,rep-102,2025-07-12T11:20:04.378838,Way lay minute model its.
+LEAD-90040,Jacob,Vaughan,jacob.vaughan@yahoo.com,"Johnson, Wagner and Martinez",Event,Qualified,30,Energy,rep-103,2025-11-17T23:38:52.380091,
+LEAD-90041,Laura,Brooks,laura.brooks@hotmail.com,Williams Inc,LinkedIn,Working,86,Manufacturing,rep-114,2025-08-02T11:34:55.481622,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90042,Omar,Kelley,omar.kelley@yahoo.com,Bates LLC,LinkedIn,Disqualified,59,Finance,rep-119,2025-10-16T17:31:24.023885,Day rate act inside.
+LEAD-90043,Jaclyn,Barnes,jaclyn.barnes@gmail.com,"Dudley, Howard and Ortiz",Web,Working,100,Energy,rep-108,2025-04-30T20:01:26.313361,Also reachable on phone-no +33 700 05 22
+LEAD-90044,Amy,Lozano,amy.lozano@hotmail.com,Chan Inc,Event,Working,90,Technology,rep-105,2025-11-22T12:48:45.037670,
+LEAD-90045,Craig,Scott,craig.scott@gmail.com,"Edwards, Rodgers and Davis",Newsletter,Disqualified,57,Technology,rep-107,2025-12-05T04:27:42.614918,Write fast less between company always fact.
+LEAD-90046,Brandon,Christian,brandon.christian@hotmail.com,"Davis, Briggs and White",Referral,Disqualified,29,Energy,rep-108,2025-07-27T15:20:49.212894,Blah blah blah |  @ not-an-email
+LEAD-90047,Suzanne,Nelson,suzanne.nelson@yahoo.com,Garcia PLC,Web,Working,39,Healthcare,rep-104,2025-08-26T13:14:21.832341,Son power someone both receive around wall.
+LEAD-90048,Ashley,Kim,ashley.kim@hotmail.com,Knapp-Rodriguez,Event,Qualified,96,Finance,rep-109,2025-07-31T11:26:47.931645,
+LEAD-90049,Brandon,Green,brandon.green@yahoo.com,"Cummings, Walker and Sosa",Newsletter,Qualified,71,Healthcare,rep-116,2026-01-16T03:59:39.929936,
+LEAD-90050,April,Watts,april.watts@hotmail.com,"Cruz, Combs and Grant",Web,New,75,Healthcare,rep-119,2026-02-27T00:58:18.525609,Item risk loss professional.
+LEAD-90051,Brian,Schneider,brian.schneider@gmail.com,Hunter PLC,Web,Working,93,Finance,rep-100,2025-10-24T05:23:33.668106,
+LEAD-90052,Richard,Young,richard.young@yahoo.com,"Smith, Powell and Johnson",Web,Working,80,Finance,rep-120,2025-09-19T19:29:44.544267,Blah blah blah |  @ not-an-email
+LEAD-90053,Margaret,Conner,margaret.conner@hotmail.com,Velasquez Group,Event,Disqualified,82,Technology,rep-115,2025-07-02T12:13:11.503858,Three none pressure lay future.
+LEAD-90054,Katrina,Greene,katrina.greene@hotmail.com,Kelley-Brooks,Referral,Qualified,33,Energy,rep-110,2025-04-11T02:13:21.519361,Respond box service develop game stop.
+LEAD-90055,Penny,Vasquez,penny.vasquez@hotmail.com,Love Inc,Newsletter,Qualified,71,Finance,rep-101,2025-12-04T19:13:00.892081,Blah blah blah |  @ not-an-email
+LEAD-90056,Brandon,Schultz,brandon.schultz@hotmail.com,"Mcconnell, Roberson and Webb",Referral,Qualified,61,Technology,rep-112,2025-09-04T22:09:06.096126,
+LEAD-90057,Samantha,Thompson,samantha.thompson@hotmail.com,Gordon-Cruz,LinkedIn,Disqualified,72,Technology,rep-106,2026-02-24T00:17:45.901590,Also reachable on phone-no +33 700 05 22
+LEAD-90058,Ruth,Farmer,ruth.farmer@yahoo.com,"Hunt, Cameron and Kelley",Newsletter,Disqualified,26,Energy,rep-108,2025-06-25T21:53:39.088257,Blah blah blah |  @ not-an-email
+LEAD-90059,Jillian,Spencer,jillian.spencer@gmail.com,"Santos, Mullen and Gordon",Newsletter,Disqualified,35,Technology,rep-120,2025-11-11T20:23:58.656552,Decide research rather TV car.
+LEAD-90060,Marcus,Wilson,marcus.wilson@yahoo.com,Stokes-Mills,Event,Qualified,90,Technology,rep-117,2025-03-12T11:45:25.289722,Also reachable on phone-no +33 700 05 22
+LEAD-90061,Dustin,Santiago,dustin.santiago@gmail.com,"Mueller, Harris and Weaver",Event,New,79,Technology,rep-120,2025-07-12T06:21:05.983151,
+LEAD-90062,Shaun,Jensen,shaun.jensen@hotmail.com,"Williams, James and Butler",Referral,Qualified,73,Manufacturing,rep-115,2025-12-16T02:37:26.492793,Ten score night down six sometimes explain.
+LEAD-90063,Gina,Church,gina.church@gmail.com,Greer-Pruitt,LinkedIn,Working,69,Energy,rep-119,2025-11-15T14:50:12.504976,Season data than.
+LEAD-90064,Deborah,Fischer,deborah.fischer@hotmail.com,Bennett Group,Referral,Disqualified,63,Finance,rep-108,2025-06-13T04:51:30.471147,
+LEAD-90065,Joseph,Martin,joseph.martin@yahoo.com,Mcfarland PLC,Referral,Disqualified,39,Manufacturing,rep-117,2025-03-21T20:00:50.731961,Form report choice.
+LEAD-90066,Sarah,Gilbert,sarah.gilbert@hotmail.com,Krueger PLC,Referral,Disqualified,78,Healthcare,rep-106,2025-03-28T03:50:45.836941,Make of group six fish.
+LEAD-90067,William,Perry,william.perry@hotmail.com,"Moreno, Barajas and Colon",Newsletter,Working,72,Technology,rep-110,2026-02-24T14:36:20.297982,Also reachable on phone-no +33 700 05 22
+LEAD-90068,Alan,Caldwell,alan.caldwell@yahoo.com,James-Hogan,Newsletter,Disqualified,39,Manufacturing,rep-101,2025-04-13T16:02:13.255219,Blah blah blah |  @ not-an-email
+LEAD-90069,Jonathan,Ramsey,jonathan.ramsey@gmail.com,"Miller, Davis and Bonilla",LinkedIn,Qualified,32,Manufacturing,rep-103,2025-12-10T16:57:07.323888,Also reachable on phone-no +33 700 05 22
+LEAD-90070,Amanda,Sims,amanda.sims@gmail.com,"Montoya, Jones and Parks",Event,Disqualified,39,Technology,rep-115,2025-03-11T22:26:24.449389,
+LEAD-90071,Jennifer,Johnson,jennifer.johnson@gmail.com,Bartlett Group,LinkedIn,Disqualified,30,Healthcare,rep-117,2025-07-22T23:37:41.432611,Concern edge audience.
+LEAD-90072,Crystal,Hamilton,crystal.hamilton@gmail.com,"Charles, Howard and Shaw",Newsletter,New,99,Technology,rep-107,2025-06-17T02:51:56.032577,Pull movement political peace series one.
+LEAD-90073,Gina,Obrien,gina.obrien@yahoo.com,"Phillips, Walters and Evans",Web,Disqualified,32,Technology,rep-114,2026-01-21T05:15:53.338184,
+LEAD-90074,Tammy,Camacho,tammy.camacho@hotmail.com,Medina-Arroyo,Referral,New,25,Healthcare,rep-101,2025-06-22T13:04:37.256229,Also reachable on phone-no +33 700 05 22
+LEAD-90075,Kaitlin,Berger,kaitlin.berger@yahoo.com,Lee-White,Referral,Disqualified,38,Energy,rep-116,2025-12-20T07:51:20.201375,Include position mention claim determine.
+LEAD-90076,Melissa,York,melissa.york@hotmail.com,Anderson-Rios,Event,Working,42,Technology,rep-119,2025-04-08T19:11:54.460545,Blah blah blah |  @ not-an-email
+LEAD-90077,Christine,Mccullough,christine.mccullough@yahoo.com,Jackson-Edwards,Event,Disqualified,94,Energy,rep-107,2025-12-15T05:08:07.742151,Blah blah blah |  @ not-an-email
+LEAD-90078,Jennifer,Davidson,jennifer.davidson@yahoo.com,"Rodriguez, Brewer and Miller",Referral,Disqualified,52,Technology,rep-114,2025-06-13T18:02:22.124529,Blah blah blah |  @ not-an-email
+LEAD-90079,Margaret,Vance,margaret.vance@gmail.com,"Johnson, Perkins and Sullivan",LinkedIn,Working,29,Manufacturing,rep-111,2025-10-04T18:20:39.123171,Blah blah blah |  @ not-an-email
+LEAD-90080,Rebecca,Arnold,rebecca.arnold@hotmail.com,Mason-Davis,Newsletter,Qualified,78,Healthcare,rep-106,2025-07-14T03:47:08.355639,Blah blah blah |  @ not-an-email
+LEAD-90081,Alex,Allen,alex.allen@hotmail.com,"Hopkins, Faulkner and Fitzgerald",Web,Working,68,Finance,rep-111,2025-08-26T20:30:08.645209,Serious cell city not.
+LEAD-90082,Michael,Robinson,michael.robinson@yahoo.com,Hughes-Hardin,Referral,New,70,Healthcare,rep-100,2026-01-19T05:42:02.144738,Blah blah blah |  @ not-an-email
+LEAD-90083,Bill,Wong,bill.wong@gmail.com,"Valdez, Houston and Black",Newsletter,Qualified,49,Finance,rep-111,2025-07-18T17:02:06.992593,Also reachable on phone-no +33 700 05 22
+LEAD-90084,Rebecca,Black,rebecca.black@yahoo.com,Robertson LLC,Event,Qualified,37,Technology,rep-120,2025-05-19T12:20:08.414696,Also reachable on phone-no +33 700 05 22
+LEAD-90085,Jacob,Cox,jacob.cox@hotmail.com,"Mendoza, Clark and Martin",Newsletter,New,94,Healthcare,rep-104,2026-01-01T15:18:18.182886,Produce increase form box.
+LEAD-90086,Andrew,Williams,andrew.williams@hotmail.com,"Costa, Walsh and Johns",Referral,Disqualified,42,Energy,rep-104,2025-11-24T03:28:32.287364,Claim picture always occur argue election conference when.
+LEAD-90087,Lori,Valentine,lori.valentine@gmail.com,Hanson PLC,LinkedIn,Qualified,41,Healthcare,rep-115,2025-06-07T20:57:08.850529,Blah blah blah |  @ not-an-email
+LEAD-90088,Jennifer,Cooper,jennifer.cooper@yahoo.com,Jacobs and Sons,Referral,New,79,Technology,rep-104,2025-08-24T01:34:57.257026,Blah blah blah |  @ not-an-email
+LEAD-90089,Christina,Williams,christina.williams@hotmail.com,"Banks, Boyd and Wood",Newsletter,Qualified,31,Manufacturing,rep-100,2025-03-19T02:59:49.439543,Also reachable on phone-no +33 700 05 22
+LEAD-90090,Alyssa,Perez,alyssa.perez@yahoo.com,Woods-Hall,Web,Disqualified,67,Healthcare,rep-118,2026-01-11T00:28:55.535033,Blah blah blah |  @ not-an-email
+LEAD-90091,Justin,Mcdowell,justin.mcdowell@yahoo.com,Brooks and Sons,Referral,New,49,Manufacturing,rep-100,2025-11-09T11:01:32.342078,Blah blah blah |  @ not-an-email
+LEAD-90092,Leslie,Cox,leslie.cox@gmail.com,"Sanders, Harris and Arnold",Event,New,79,Healthcare,rep-120,2025-09-22T21:41:17.144628,Blah blah blah |  @ not-an-email
+LEAD-90093,Guy,Hansen,guy.hansen@yahoo.com,"Wilson, Hall and Logan",Event,New,24,Healthcare,rep-115,2026-02-12T23:04:58.494510,
+LEAD-90094,Craig,Romero,craig.romero@yahoo.com,Frost-Graham,Event,Working,69,Manufacturing,rep-111,2025-03-26T15:56:29.044406,
+LEAD-90095,Jeffrey,Miller,jeffrey.miller@gmail.com,Bowman Group,Event,Disqualified,32,Manufacturing,rep-119,2025-03-07T04:06:44.182431,Blah blah blah |  @ not-an-email
+LEAD-90096,Melissa,Galvan,melissa.galvan@hotmail.com,"Johnson, Allen and Smith",Web,Qualified,47,Manufacturing,rep-114,2025-04-29T18:21:01.752739,Crime six member recognize past.
+LEAD-90097,Wendy,Chan,wendy.chan@yahoo.com,"Gallegos, Herman and Bailey",Web,Qualified,89,Healthcare,rep-101,2026-02-18T02:10:33.538528,If customer address region try near.
+LEAD-90098,Joshua,Obrien,joshua.obrien@gmail.com,Pratt LLC,Event,New,78,Technology,rep-106,2026-01-17T06:01:27.106448,Upon offer end imagine blood authority family.
+LEAD-90099,Lisa,Andrews,lisa.andrews@hotmail.com,Mosley-Atkins,Referral,Working,36,Finance,rep-106,2025-08-26T07:03:44.164189,
+LEAD-90100,Jonathan,Reyes,jonathan.reyes@gmail.com,Wright-Davis,Event,Working,49,Healthcare,rep-104,2025-11-04T07:42:06.303634,Also reachable on phone-no +33 700 05 22
+LEAD-90101,Lori,Jones,lori.jones@gmail.com,"Gonzalez, Moss and Salas",Event,Working,89,Healthcare,rep-105,2025-05-17T18:47:57.710627,Finish despite off consumer second us couple.
+LEAD-90102,James,Wright,james.wright@hotmail.com,"Rubio, Charles and Watson",Web,Working,21,Healthcare,rep-107,2025-06-26T11:05:47.031693,Also reachable on phone-no +33 700 05 22
+LEAD-90103,Rachael,Ibarra,rachael.ibarra@hotmail.com,"Anderson, Fox and Henderson",Event,Qualified,26,Energy,rep-113,2026-02-09T11:00:45.506249,
+LEAD-90104,Antonio,Reed,antonio.reed@hotmail.com,Smith and Sons,Web,Disqualified,77,Healthcare,rep-116,2025-07-19T20:12:08.340199,Also reachable on phone-no +33 700 05 22
+LEAD-90105,Craig,Ward,craig.ward@yahoo.com,White-Coleman,LinkedIn,Working,98,Technology,rep-116,2025-08-03T07:53:44.378271,Nature down likely party.
+LEAD-90106,Karen,Diaz,karen.diaz@yahoo.com,"Nelson, Young and Reynolds",Web,New,81,Manufacturing,rep-113,2025-07-20T08:57:35.339865,Late number without rather sport.
+LEAD-90107,Dustin,Haley,dustin.haley@gmail.com,Evans-Hart,Newsletter,New,30,Healthcare,rep-119,2025-09-26T15:43:43.014249,South computer matter yet support military result.
+LEAD-90108,Raymond,Vaughn,raymond.vaughn@gmail.com,Ward-Grant,Event,Qualified,99,Finance,rep-117,2025-12-24T02:37:56.328037,
+LEAD-90109,Maurice,Jenkins,maurice.jenkins@yahoo.com,"Griffin, Miller and Austin",LinkedIn,Qualified,78,Finance,rep-119,2025-08-19T15:22:00.981249,Current office power company sister great pull maintain.
+LEAD-90110,Sue,Oneill,sue.oneill@hotmail.com,Stewart-Carter,Web,Working,75,Manufacturing,rep-107,2025-06-08T22:49:34.625993,
+LEAD-90111,Deanna,Nelson,deanna.nelson@yahoo.com,Stanley Ltd,Newsletter,Disqualified,73,Technology,rep-110,2025-11-14T04:22:06.986309,Security minute late cold take by.
+LEAD-90112,Christopher,Jackson,christopher.jackson@gmail.com,Warren-Ferrell,Referral,Qualified,39,Manufacturing,rep-102,2025-04-10T05:14:20.208613,As these nature ago.
+LEAD-90113,Christine,Miller,christine.miller@yahoo.com,Johnson Ltd,Web,Disqualified,32,Healthcare,rep-104,2025-07-11T14:12:43.891789,
+LEAD-90114,Rose,Lin,rose.lin@yahoo.com,"Fields, Elliott and Mills",LinkedIn,Qualified,35,Manufacturing,rep-111,2025-10-22T20:10:43.109109,Also reachable on phone-no +33 700 05 22
+LEAD-90115,Kyle,Reed,kyle.reed@hotmail.com,Mills and Sons,Web,Qualified,96,Healthcare,rep-111,2025-07-06T20:38:24.548040,Blah blah blah |  @ not-an-email
+LEAD-90116,Taylor,Smith,taylor.smith@yahoo.com,"Kim, Wright and Espinoza",LinkedIn,Working,39,Manufacturing,rep-107,2025-10-25T04:49:40.111651,Also reachable on phone-no +33 700 05 22
+LEAD-90117,Maria,Walker,maria.walker@gmail.com,"Paul, Lamb and Gutierrez",LinkedIn,Qualified,34,Healthcare,rep-118,2026-01-08T23:38:45.892915,Personal might son party really even.
+LEAD-90118,Ian,Roberts,ian.roberts@hotmail.com,Compton LLC,LinkedIn,New,97,Healthcare,rep-100,2025-06-09T13:55:38.741068,Pay evening performance could affect anyone movement.
+LEAD-90119,Jennifer,Acosta,jennifer.acosta@gmail.com,Bolton-Ford,Referral,Qualified,64,Technology,rep-105,2025-12-17T07:39:59.771945,Character management game find.
+LEAD-90120,Mark,Bridges,mark.bridges@gmail.com,Roth-Clayton,Newsletter,New,38,Technology,rep-102,2025-04-16T19:18:47.630703,Also reachable on phone-no +33 700 05 22
+LEAD-90121,Kayla,Wright,kayla.wright@yahoo.com,Kennedy Ltd,Newsletter,Disqualified,63,Energy,rep-111,2026-02-17T07:59:52.171817,Scene almost leave side miss.
+LEAD-90122,Sharon,Moore,sharon.moore@hotmail.com,Little-Gonzalez,Referral,New,26,Energy,rep-105,2026-01-21T10:00:39.956038,Blah blah blah |  @ not-an-email
+LEAD-90123,Michelle,Robinson,michelle.robinson@gmail.com,Smith Inc,Web,Qualified,76,Manufacturing,rep-115,2025-10-01T11:48:33.201874,Also reachable on phone-no +33 700 05 22
+LEAD-90124,Hannah,Barker,hannah.barker@gmail.com,"Brown, Kelly and Moore",Referral,Working,85,Technology,rep-111,2025-09-15T03:46:19.304369,Side eat matter rather full wide.
+LEAD-90125,Daniel,Freeman,daniel.freeman@yahoo.com,King Inc,Referral,Disqualified,87,Healthcare,rep-101,2025-08-27T12:16:10.296446,
+LEAD-90126,Samuel,Phillips,samuel.phillips@hotmail.com,"Martin, Schmidt and Cole",LinkedIn,New,20,Energy,rep-109,2025-12-27T13:03:13.903180,Couple cost girl run every story trial.
+LEAD-90127,Amber,Gibson,amber.gibson@hotmail.com,"Coffey, Fuentes and Lee",Referral,Qualified,61,Technology,rep-100,2025-11-07T19:12:24.157789,
+LEAD-90128,Katie,Moore,katie.moore@yahoo.com,Russo and Sons,Newsletter,Working,36,Manufacturing,rep-117,2025-04-11T08:38:50.689471,Blah blah blah |  @ not-an-email
+LEAD-90129,James,Johnson,james.johnson@hotmail.com,Smith and Sons,LinkedIn,Qualified,29,Manufacturing,rep-101,2025-10-28T18:22:08.495585,Also reachable on phone-no +33 700 05 22
+LEAD-90130,Sarah,Collier,sarah.collier@yahoo.com,"Brown, Jensen and Rice",Newsletter,New,60,Finance,rep-113,2025-11-26T10:55:40.919064,
+LEAD-90131,Mary,Miller,mary.miller@gmail.com,Hansen PLC,Newsletter,Qualified,34,Manufacturing,rep-100,2025-08-01T21:38:09.821347,Blah blah blah |  @ not-an-email
+LEAD-90132,Daniel,Fowler,daniel.fowler@yahoo.com,"Murillo, Ramos and Gomez",LinkedIn,Disqualified,66,Technology,rep-113,2025-06-26T08:48:02.012347,
+LEAD-90133,Victoria,Nguyen,victoria.nguyen@yahoo.com,"Howe, King and Nixon",Newsletter,Disqualified,87,Technology,rep-112,2025-08-13T16:54:11.701473,
+LEAD-90134,Randy,Barber,randy.barber@yahoo.com,"Short, Ellison and Dixon",Referral,Working,62,Energy,rep-102,2025-09-27T16:34:04.890891,Blah blah blah |  @ not-an-email
+LEAD-90135,Ashley,Davis,ashley.davis@yahoo.com,"Ross, Hardin and Navarro",LinkedIn,Working,64,Healthcare,rep-120,2025-11-22T12:57:38.657218,Also reachable on phone-no +33 700 05 22
+LEAD-90136,Laura,Thompson,laura.thompson@hotmail.com,Bailey-Montoya,Web,Working,52,Energy,rep-105,2025-08-02T09:21:24.723351,
+LEAD-90137,Mindy,Kane,mindy.kane@gmail.com,"Walker, Williams and Dennis",Web,Working,100,Manufacturing,rep-114,2025-07-24T18:08:34.785473,Also reachable on phone-no +33 700 05 22
+LEAD-90138,Sean,Larson,sean.larson@hotmail.com,Alvarez Ltd,LinkedIn,Qualified,100,Healthcare,rep-104,2025-03-21T06:28:36.303668,Blah blah blah |  @ not-an-email
+LEAD-90139,Raymond,Miller,raymond.miller@hotmail.com,Hoffman Ltd,Newsletter,Disqualified,100,Healthcare,rep-108,2025-09-10T17:39:27.863898,
+LEAD-90140,John,Adams,john.adams@yahoo.com,Wheeler-Johnson,LinkedIn,New,59,Manufacturing,rep-114,2025-06-22T14:11:46.899846,Range office both including half couple.
+LEAD-90141,Vanessa,Jensen,vanessa.jensen@yahoo.com,Sanchez PLC,Referral,Qualified,29,Technology,rep-119,2026-02-04T17:43:03.331918,
+LEAD-90142,Misty,Wilkins,misty.wilkins@gmail.com,Payne LLC,LinkedIn,New,77,Finance,rep-120,2025-09-19T16:52:37.446460,Really born late age decade Mrs.
+LEAD-90143,Cindy,Gay,cindy.gay@hotmail.com,Jackson-Campbell,LinkedIn,Disqualified,84,Energy,rep-101,2025-12-16T12:03:51.975408,Heavy town money.
+LEAD-90144,Christine,Brown,christine.brown@hotmail.com,"Ward, Rodriguez and Carter",Referral,New,84,Energy,rep-101,2026-01-19T21:55:12.640986,
+LEAD-90145,Paul,Whitney,paul.whitney@hotmail.com,Mason Group,Newsletter,Disqualified,87,Finance,rep-119,2025-09-24T01:04:47.722857,Also reachable on phone-no +33 700 05 22
+LEAD-90146,Jennifer,Williams,jennifer.williams@hotmail.com,"Turner, Ferrell and Irwin",Referral,Qualified,69,Manufacturing,rep-110,2025-06-12T00:30:37.018529,Four hotel church get goal.
+LEAD-90147,Bryan,Scott,bryan.scott@yahoo.com,Prince-Sandoval,Referral,New,62,Technology,rep-117,2025-04-04T07:49:03.177917,Also reachable on phone-no +33 700 05 22
+LEAD-90148,Patrick,Yu,patrick.yu@hotmail.com,"Taylor, Weaver and Mcbride",Referral,Working,62,Technology,rep-118,2026-01-12T07:27:50.113340,Rather individual of interview fine painting last capital.
+LEAD-90149,Kyle,Thornton,kyle.thornton@hotmail.com,"Stark, Stewart and Grant",Referral,Disqualified,36,Finance,rep-102,2026-02-12T17:26:28.129534,Involve training show prevent.
+LEAD-90150,David,Stewart,david.stewart@gmail.com,Turner-Reese,Newsletter,Qualified,36,Finance,rep-102,2025-12-28T09:02:22.135276,Blah blah blah |  @ not-an-email
+LEAD-90151,Dana,Rodgers,dana.rodgers@gmail.com,"Salazar, Carlson and Hall",Referral,New,66,Healthcare,rep-105,2025-03-12T18:52:40.452893,Blah blah blah |  @ not-an-email
+LEAD-90152,Christopher,Chan,christopher.chan@gmail.com,Johnson Inc,Newsletter,Working,48,Energy,rep-104,2026-02-04T06:22:09.603626,Suffer light power contain hold listen clearly.
+LEAD-90153,Stephanie,Walker,stephanie.walker@hotmail.com,Watts-Delacruz,Web,New,63,Finance,rep-104,2026-01-21T10:36:04.980267,Serious at until worry term.
+LEAD-90154,Ronald,Parsons,ronald.parsons@hotmail.com,"Buchanan, Meyer and Hayes",Event,Working,99,Energy,rep-114,2025-12-30T07:35:58.447397,
+LEAD-90155,Bobby,Forbes,bobby.forbes@hotmail.com,Wilkerson-Ayala,Referral,Working,76,Finance,rep-109,2025-06-15T16:29:10.185685,How same newspaper might piece any fact.
+LEAD-90156,Garrett,Phillips,garrett.phillips@gmail.com,"Payne, Long and Morris",LinkedIn,Working,59,Manufacturing,rep-106,2025-03-12T08:36:03.966640,
+LEAD-90157,Shawn,Mosley,shawn.mosley@gmail.com,"Cole, Cox and Mills",LinkedIn,Disqualified,79,Healthcare,rep-112,2025-07-21T13:02:42.870506,Blah blah blah |  @ not-an-email
+LEAD-90158,Kylie,Hunt,kylie.hunt@gmail.com,Melton and Sons,Event,Working,52,Technology,rep-120,2025-12-09T04:28:16.972121,
+LEAD-90159,Brett,Parker,brett.parker@hotmail.com,Foley-Stephens,LinkedIn,New,86,Technology,rep-109,2025-03-05T08:38:07.553463,Eye Congress together whether about she activity.
+LEAD-90160,Nicole,Young,nicole.young@hotmail.com,Williams and Sons,Referral,Disqualified,85,Energy,rep-113,2025-03-23T08:54:17.154630,
+LEAD-90161,Michael,Thomas,michael.thomas@gmail.com,"Guerrero, Graves and Armstrong",Newsletter,Qualified,23,Manufacturing,rep-101,2025-09-24T14:08:16.405684,
+LEAD-90162,Tammy,Curry,tammy.curry@yahoo.com,Wilkins-Chang,Referral,Working,69,Technology,rep-111,2026-01-05T06:28:38.362836,Blah blah blah |  @ not-an-email
+LEAD-90163,Calvin,Ruiz,calvin.ruiz@gmail.com,"Blair, Fuller and Benitez",Referral,New,62,Energy,rep-104,2025-08-26T21:54:04.074113,
+LEAD-90164,Haley,Peck,haley.peck@hotmail.com,Mendez Group,Newsletter,Working,80,Manufacturing,rep-119,2025-09-09T01:50:37.734091,Interview summer employee offer perhaps.
+LEAD-90165,Crystal,Vasquez,crystal.vasquez@gmail.com,"Duarte, Gutierrez and Cook",Web,Qualified,47,Energy,rep-117,2025-09-23T22:41:43.138999,
+LEAD-90166,Dana,Smith,dana.smith@gmail.com,Jennings LLC,Referral,Working,58,Technology,rep-101,2025-07-25T21:54:03.026556,
+LEAD-90167,Ashley,Choi,ashley.choi@gmail.com,"Taylor, Moore and Murray",LinkedIn,Disqualified,28,Technology,rep-115,2026-01-13T06:34:35.410107,Form full public trouble something.
+LEAD-90168,Paula,Ford,paula.ford@yahoo.com,"Smith, Ray and Rivera",LinkedIn,Working,38,Healthcare,rep-113,2026-01-31T21:17:52.963435,Also reachable on phone-no +33 700 05 22
+LEAD-90169,Laura,Jones,laura.jones@gmail.com,"Price, Larson and Hancock",Referral,Working,93,Manufacturing,rep-105,2025-12-02T18:02:54.958372,Also reachable on phone-no +33 700 05 22
+LEAD-90170,Janet,Edwards,janet.edwards@gmail.com,Warren and Sons,Referral,New,87,Finance,rep-116,2025-04-13T06:01:11.629871,Also reachable on phone-no +33 700 05 22
+LEAD-90171,Kristen,Strickland,kristen.strickland@gmail.com,"Collins, Murphy and Hammond",Newsletter,New,69,Healthcare,rep-108,2025-04-08T03:28:37.697209,Media sometimes toward child future low.
+LEAD-90172,Toni,Black,toni.black@gmail.com,Mcdaniel PLC,Web,Qualified,50,Technology,rep-118,2026-01-15T16:52:31.135911,Right least require mission about.
+LEAD-90173,Mathew,Small,mathew.small@gmail.com,Hill-Flores,Web,Qualified,89,Healthcare,rep-120,2025-08-11T08:56:28.252671,
+LEAD-90174,David,Hernandez,david.hernandez@yahoo.com,Dunn-Nelson,Newsletter,Disqualified,100,Energy,rep-104,2026-02-10T18:46:28.100699,Also reachable on phone-no +33 700 05 22
+LEAD-90175,Linda,Andrews,linda.andrews@gmail.com,Ruiz Ltd,Newsletter,New,57,Energy,rep-101,2025-03-21T16:30:46.005941,Also reachable on phone-no +33 700 05 22
+LEAD-90176,Patrick,Miller,patrick.miller@yahoo.com,Jensen-Edwards,Referral,Qualified,85,Manufacturing,rep-117,2025-12-26T19:43:39.727783,
+LEAD-90177,Jennifer,Lambert,jennifer.lambert@hotmail.com,"Mcdonald, Bryant and Cohen",Web,Working,56,Healthcare,rep-101,2025-11-17T15:48:34.724904,Wind sense letter capital.
+LEAD-90178,Steven,Hall,steven.hall@gmail.com,"Stark, Rivera and Valencia",Web,Qualified,75,Manufacturing,rep-114,2025-06-29T21:00:18.935690,Technology pay tree hot.
+LEAD-90179,Tony,Jones,tony.jones@gmail.com,Roth-Robles,Event,Disqualified,83,Healthcare,rep-116,2025-06-30T06:43:23.986295,Long suffer executive give offer meet.
+LEAD-90180,Debra,Sparks,debra.sparks@hotmail.com,"Garza, Mueller and Graham",Newsletter,New,75,Finance,rep-105,2025-12-15T19:44:42.045249,
+LEAD-90181,Amy,Young,amy.young@hotmail.com,"Ford, Peters and Short",Web,New,61,Healthcare,rep-109,2025-05-06T14:31:35.477509,School Republican student boy.
+LEAD-90182,Stephanie,Jones,stephanie.jones@gmail.com,"Pacheco, Sherman and Guerrero",Newsletter,Working,76,Healthcare,rep-114,2025-08-15T16:53:33.195331,Blah blah blah |  @ not-an-email
+LEAD-90183,Kelly,Gilbert,kelly.gilbert@yahoo.com,Robbins-Herman,Referral,Disqualified,55,Technology,rep-102,2026-02-27T22:51:55.635485,Also reachable on phone-no +33 700 05 22
+LEAD-90184,Brandi,Carr,brandi.carr@hotmail.com,"Hoover, Howard and Callahan",LinkedIn,Working,23,Energy,rep-119,2026-01-13T10:34:02.760020,Summer system artist too whose a.
+LEAD-90185,Joe,Park,joe.park@yahoo.com,Larsen-Moore,Event,New,50,Healthcare,rep-111,2026-03-02T13:41:16.020886,
+LEAD-90186,Elizabeth,Taylor,elizabeth.taylor@gmail.com,Miller Ltd,Web,Working,77,Healthcare,rep-111,2025-12-22T14:55:05.764190,Blah blah blah |  @ not-an-email
+LEAD-90187,Michelle,English,michelle.english@hotmail.com,Lane Ltd,LinkedIn,Working,87,Healthcare,rep-112,2025-05-28T17:31:15.215401,
+LEAD-90188,Walter,Jenkins,walter.jenkins@hotmail.com,Cross PLC,Referral,Working,34,Technology,rep-105,2026-02-25T12:02:44.934819,Blah blah blah |  @ not-an-email
+LEAD-90189,Tonya,Maxwell,tonya.maxwell@yahoo.com,"Ryan, Riley and Austin",Newsletter,New,53,Healthcare,rep-114,2026-01-27T06:50:20.901141,Blah blah blah |  @ not-an-email
+LEAD-90190,Amanda,Smith,amanda.smith@yahoo.com,"Livingston, Curry and Acosta",Referral,Disqualified,45,Technology,rep-104,2025-09-25T03:32:29.047783,Also reachable on phone-no +33 700 05 22
+LEAD-90191,Bryan,Kennedy,bryan.kennedy@gmail.com,King-Gilbert,Event,Disqualified,31,Healthcare,rep-111,2025-06-11T18:42:52.835057,Appear wrong speak person expert bar measure.
+LEAD-90192,Jonathan,Figueroa,jonathan.figueroa@hotmail.com,Green Ltd,LinkedIn,Qualified,58,Energy,rep-120,2025-05-28T12:39:50.054924,Also reachable on phone-no +33 700 05 22
+LEAD-90193,Henry,Rose,henry.rose@gmail.com,Townsend-Young,LinkedIn,Working,35,Energy,rep-104,2025-08-11T00:47:01.100976,Worker whose other start study sell.
+LEAD-90194,Dana,Clark,dana.clark@hotmail.com,Reese-Goodwin,Web,Qualified,90,Finance,rep-111,2025-09-13T18:10:38.321669,Approach enough standard apply less live.
+LEAD-90195,Noah,Thornton,noah.thornton@yahoo.com,"Stewart, Moreno and Blanchard",Event,New,28,Healthcare,rep-112,2025-04-07T19:41:59.165347,Blah blah blah |  @ not-an-email
+LEAD-90196,Amanda,Gomez,amanda.gomez@yahoo.com,"Allen, Powers and Townsend",Newsletter,Disqualified,93,Technology,rep-104,2025-09-09T04:00:17.160349,Blah blah blah |  @ not-an-email
+LEAD-90197,Erica,Kaiser,erica.kaiser@yahoo.com,"Campbell, Lee and Johnson",Web,Disqualified,79,Finance,rep-111,2025-04-05T20:09:45.781782,Blah blah blah |  @ not-an-email
+LEAD-90198,Sheena,Douglas,sheena.douglas@gmail.com,Kemp Ltd,LinkedIn,Working,36,Manufacturing,rep-116,2025-05-09T13:25:57.619591,Also reachable on phone-no +33 700 05 22
+LEAD-90199,Kenneth,Guerrero,kenneth.guerrero@gmail.com,Ramirez Inc,LinkedIn,Working,58,Energy,rep-105,2025-07-21T01:45:06.061163,
+LEAD-90200,Marvin,Brown,marvin.brown@yahoo.com,Brewer Inc,Event,Qualified,86,Healthcare,rep-102,2025-04-24T19:22:48.666926,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90201,Kayla,Robinson,kayla.robinson@hotmail.com,"Luna, Waters and Smith",LinkedIn,Qualified,36,Healthcare,rep-119,2025-09-01T00:57:29.985617,
+LEAD-90202,Denise,Smith,denise.smith@gmail.com,Mendoza-Powell,Event,Working,41,Finance,rep-119,2025-11-24T01:39:43.379046,Also reachable on phone-no +33 700 05 22
+LEAD-90203,Lisa,Jones,lisa.jones@gmail.com,Bradley LLC,Web,New,30,Technology,rep-120,2025-07-03T01:04:47.989885,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90204,Kevin,Brown,kevin.brown@hotmail.com,Holland-Thompson,Event,Disqualified,99,Technology,rep-115,2025-03-17T14:59:42.745732,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90205,Patrick,Lee,patrick.lee@hotmail.com,Johnson Inc,Referral,Disqualified,51,Manufacturing,rep-109,2025-11-21T03:17:13.708342,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90206,Brittany,Burns,brittany.burns@gmail.com,French-Williams,Web,Working,76,Manufacturing,rep-115,2025-04-15T10:13:38.388572,
+LEAD-90207,Lindsay,Contreras,lindsay.contreras@yahoo.com,"Williams, Haynes and Anderson",Referral,Working,60,Healthcare,rep-111,2025-05-05T04:07:15.501965,
+LEAD-90208,Brendan,Parker,brendan.parker@gmail.com,Brock Group,Referral,New,60,Energy,rep-114,2025-07-04T11:17:46.470946,
+LEAD-90209,Mary,Rojas,mary.rojas@yahoo.com,Watkins LLC,Newsletter,Working,38,Technology,rep-101,2025-03-26T08:24:55.418108,Building range national focus who degree.
+LEAD-90210,Joshua,Todd,joshua.todd@gmail.com,"Bennett, Moore and Hobbs",LinkedIn,Disqualified,51,Energy,rep-110,2025-04-01T17:49:21.021037,Network just understand American beyond suggest.
+LEAD-90211,Adrian,Howe,adrian.howe@hotmail.com,Allen-Thompson,Event,Disqualified,85,Manufacturing,rep-115,2025-11-10T21:16:19.235987,
+LEAD-90212,Caitlyn,Love,caitlyn.love@hotmail.com,Lee PLC,Web,New,70,Finance,rep-114,2026-02-23T00:32:49.842677,Physical site girl above.
+LEAD-90213,Christine,Huffman,christine.huffman@hotmail.com,Jimenez-Moore,LinkedIn,Qualified,26,Technology,rep-109,2026-02-03T06:09:28.520543,
+LEAD-90214,Brian,Diaz,brian.diaz@gmail.com,"Thompson, Floyd and Washington",Newsletter,Qualified,88,Technology,rep-103,2025-04-14T15:37:34.260747,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90215,Patty,Griffith,patty.griffith@hotmail.com,Bennett and Sons,Referral,Qualified,71,Healthcare,rep-101,2025-03-30T02:46:16.847484,
+LEAD-90216,Brenda,Brown,brenda.brown@yahoo.com,Cortez-Chen,LinkedIn,Working,66,Finance,rep-109,2026-02-22T13:42:58.715562,
+LEAD-90217,James,Martinez,james.martinez@hotmail.com,"Moore, Norton and Cisneros",LinkedIn,Disqualified,90,Healthcare,rep-119,2026-01-28T00:18:28.043513,Arrive carry surface learn commercial gas though.
+LEAD-90218,Belinda,Tran,belinda.tran@gmail.com,Hood-Ramirez,Web,Disqualified,67,Healthcare,rep-117,2025-11-24T21:23:16.558644,
+LEAD-90219,Jill,Wright,jill.wright@yahoo.com,Williams Group,Event,Disqualified,84,Technology,rep-101,2025-11-26T03:42:17.017963,
+LEAD-90220,William,Simmons,william.simmons@yahoo.com,Dodson-Anderson,Referral,Disqualified,86,Manufacturing,rep-104,2025-06-19T07:03:19.454484,
+LEAD-90221,Deborah,Davis,deborah.davis@yahoo.com,Ingram-Sawyer,LinkedIn,Qualified,40,Manufacturing,rep-119,2025-07-29T07:31:09.252029,Class learn now on with.
+LEAD-90222,Kristy,Wood,kristy.wood@yahoo.com,Schmidt-Phillips,Referral,Disqualified,92,Healthcare,rep-115,2025-12-03T05:51:47.199500,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90223,Helen,Salazar,helen.salazar@hotmail.com,"Cox, Williams and Reyes",Referral,New,73,Finance,rep-109,2025-08-20T05:23:56.827534,Skin ball thing save area.
+LEAD-90224,Blake,Richardson,blake.richardson@hotmail.com,"Crosby, Carpenter and Haley",Newsletter,Qualified,94,Finance,rep-107,2025-05-18T21:13:52.102412,Also reachable on WhatsAPP
+LEAD-90225,Julie,Perez,julie.perez@yahoo.com,"Rose, Martinez and Mckinney",Newsletter,Working,87,Finance,rep-112,2025-11-06T00:06:54.694805,Also reachable on WhatsAPP
+LEAD-90226,Amanda,Carter,amanda.carter@hotmail.com,Miller-Myers,Event,New,93,Technology,rep-106,2025-05-07T13:38:56.413508,Also reachable on WhatsAPP
+LEAD-90227,Susan,Jones,susan.jones@gmail.com,Carter Ltd,Referral,Disqualified,39,Manufacturing,rep-106,2025-09-17T00:18:59.032937,Born challenge character daughter weight.
+LEAD-90228,David,Reed,david.reed@yahoo.com,Conley PLC,LinkedIn,Disqualified,27,Energy,rep-116,2025-10-24T17:16:04.095884,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90229,Robert,Cooper,robert.cooper@hotmail.com,Jackson-Green,Referral,Disqualified,87,Manufacturing,rep-110,2025-08-27T02:59:11.063921,Also reachable on WhatsAPP
+LEAD-90230,Tara,Carrillo,tara.carrillo@gmail.com,"Nichols, White and Thompson",LinkedIn,Qualified,89,Healthcare,rep-120,2025-11-16T21:21:35.846891,Good lay coach under.
+LEAD-90231,Rebecca,Bauer,rebecca.bauer@gmail.com,Hart Inc,Newsletter,Working,51,Healthcare,rep-117,2025-11-01T08:18:28.200832,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90232,Tiffany,Hernandez,tiffany.hernandez@yahoo.com,Moore-Cordova,Referral,Qualified,46,Manufacturing,rep-110,2025-09-18T17:36:31.137379,
+LEAD-90233,William,Holland,william.holland@yahoo.com,Morgan-Rodriguez,LinkedIn,Qualified,56,Technology,rep-118,2025-08-25T04:51:43.331026,Time wide senior yes project son rock.
+LEAD-90234,Billy,Gregory,billy.gregory@gmail.com,"Davidson, Silva and Walker",Referral,Working,57,Technology,rep-109,2026-02-08T00:02:34.810659,Agent pay detail group for.
+LEAD-90235,Joshua,Johnson,joshua.johnson@hotmail.com,Kerr LLC,Newsletter,Qualified,81,Energy,rep-106,2025-07-26T11:07:31.765981,Quality whatever wish hour make owner memory.
+LEAD-90236,Jennifer,Patterson,jennifer.patterson@yahoo.com,Figueroa-Perry,Referral,Working,33,Finance,rep-118,2025-08-11T21:06:52.375367,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90237,Frank,Luna,frank.luna@yahoo.com,Jones-Choi,Web,Working,49,Technology,rep-103,2025-12-04T10:08:30.573631,
+LEAD-90238,Christopher,Ortiz,christopher.ortiz@yahoo.com,Spencer-Williams,Newsletter,New,37,Technology,rep-117,2025-12-30T00:55:18.640982,Company left nothing trip current strategy.
+LEAD-90239,Mary,Torres,mary.torres@hotmail.com,"Stafford, Butler and Vasquez",Newsletter,Disqualified,45,Healthcare,rep-110,2025-11-09T11:41:44.829903,Different social child feel policy PM buy.
+LEAD-90240,John,Wilson,john.wilson@yahoo.com,Mccann-Cardenas,Web,New,93,Energy,rep-117,2025-07-17T13:37:42.804090,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90241,Jessica,Smith,jessica.smith@yahoo.com,Martin-Nelson,Newsletter,Working,24,Manufacturing,rep-115,2025-08-03T11:35:11.709017,
+LEAD-90242,Rhonda,Kelly,rhonda.kelly@yahoo.com,George and Sons,Referral,New,21,Healthcare,rep-118,2025-09-17T20:16:45.623375,Also reachable on WhatsAPP
+LEAD-90243,Monique,Serrano,monique.serrano@hotmail.com,Smith PLC,Referral,Disqualified,89,Finance,rep-115,2025-06-14T01:04:04.959669,Even recently guy move goal.
+LEAD-90244,Kimberly,Jenkins,kimberly.jenkins@gmail.com,"Austin, Guerra and Fox",Newsletter,Qualified,44,Technology,rep-110,2025-09-13T14:27:01.069208,Also reachable on WhatsAPP
+LEAD-90245,Andrea,Avila,andrea.avila@gmail.com,Taylor-Ramos,Newsletter,Qualified,43,Technology,rep-110,2026-02-26T23:07:55.069045,Also reachable on WhatsAPP
+LEAD-90246,Alexandra,Cordova,alexandra.cordova@gmail.com,Parker and Sons,Event,Working,98,Manufacturing,rep-113,2025-04-19T19:41:22.013333,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90247,Christian,Vazquez,christian.vazquez@gmail.com,Mcguire PLC,Newsletter,New,43,Energy,rep-115,2025-10-05T21:52:02.849465,
+LEAD-90248,Taylor,Kerr,taylor.kerr@gmail.com,"Harris, Santana and Lopez",Web,Qualified,69,Energy,rep-114,2025-07-09T15:41:14.107940,
+LEAD-90249,Christopher,Singleton,christopher.singleton@yahoo.com,Rice Ltd,Referral,New,53,Healthcare,rep-107,2025-05-12T05:17:13.526168,Girl civil may rock drop now between official.
+LEAD-90250,Juan,Winters,juan.winters@hotmail.com,"York, Wells and Wolfe",Web,Disqualified,59,Energy,rep-112,2025-05-09T20:59:44.331889,Also reachable on WhatsAPP
+LEAD-90251,Emily,Rodriguez,emily.rodriguez@yahoo.com,"Taylor, Farmer and Bush",Web,Qualified,67,Finance,rep-107,2025-09-22T17:54:50.317284,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90252,Billy,Murphy,billy.murphy@gmail.com,Mercer-Patterson,Newsletter,Working,78,Finance,rep-111,2026-01-10T04:30:02.025096,
+LEAD-90253,Patricia,Lang,patricia.lang@hotmail.com,Wilson Group,LinkedIn,Disqualified,88,Energy,rep-107,2025-07-27T14:00:13.886445,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90254,Brittany,Garcia,brittany.garcia@gmail.com,Martinez-Massey,Newsletter,Qualified,29,Finance,rep-103,2025-11-23T03:09:39.736065,Also reachable on WhatsAPP
+LEAD-90255,Joshua,Reeves,joshua.reeves@hotmail.com,Hernandez-Gibson,LinkedIn,Working,93,Finance,rep-104,2025-04-16T21:18:58.468373,Also reachable on WhatsAPP
+LEAD-90256,Tracy,Hall,tracy.hall@gmail.com,"Johnson, White and Jacobs",LinkedIn,Disqualified,34,Energy,rep-118,2025-06-30T16:14:39.572879,Between apply attention.
+LEAD-90257,Kevin,Hanson,kevin.hanson@gmail.com,"Payne, Cisneros and Johnson",LinkedIn,Disqualified,27,Manufacturing,rep-104,2025-08-07T11:04:00.315133,
+LEAD-90258,Robin,Reyes,robin.reyes@yahoo.com,Henry and Sons,LinkedIn,New,91,Manufacturing,rep-109,2025-06-25T09:10:26.485343,Kind along computer process single those.
+LEAD-90259,Paul,Gallagher,paul.gallagher@hotmail.com,Garza-Gray,Referral,New,47,Finance,rep-102,2025-11-05T08:09:25.398573,Process rate occur live take media hot.
+LEAD-90260,Katie,Mitchell,katie.mitchell@gmail.com,"Silva, Hubbard and Garrett",Referral,New,89,Technology,rep-102,2025-07-20T06:14:32.609923,Opportunity campaign hand.
+LEAD-90261,Ronnie,Braun,ronnie.braun@yahoo.com,Wilson-Jackson,Referral,Disqualified,43,Energy,rep-120,2025-09-15T21:51:36.218339,
+LEAD-90262,Benjamin,Barrett,benjamin.barrett@yahoo.com,Armstrong-Stokes,Newsletter,Disqualified,68,Manufacturing,rep-102,2025-04-08T19:18:01.336906,Method inside after like against first now.
+LEAD-90263,Emily,Rogers,emily.rogers@hotmail.com,Pittman PLC,Referral,New,42,Finance,rep-112,2025-05-20T10:48:08.352635,Also reachable on WhatsAPP
+LEAD-90264,Joseph,Evans,joseph.evans@hotmail.com,Jones-Solis,Event,New,22,Healthcare,rep-114,2025-08-23T20:18:57.390825,Also reachable on WhatsAPP
+LEAD-90265,Jason,Flynn,jason.flynn@hotmail.com,Weber-Chavez,Newsletter,Working,51,Manufacturing,rep-111,2025-12-07T02:22:43.427888,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90266,Henry,Smith,henry.smith@hotmail.com,"Lamb, Farrell and Meadows",Event,New,24,Manufacturing,rep-119,2026-02-07T15:01:18.424759,Television officer defense while score level view.
+LEAD-90267,Jessica,Brown,jessica.brown@gmail.com,Walters Group,Event,New,32,Finance,rep-101,2025-06-08T18:06:48.706409,
+LEAD-90268,Justin,Martin,justin.martin@hotmail.com,Lucas-Johnson,Web,Working,25,Manufacturing,rep-114,2025-04-30T11:07:32.753006,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90269,Derek,Green,derek.green@yahoo.com,"Evans, Brown and Friedman",Event,New,37,Finance,rep-109,2026-01-24T19:07:35.518077,Also reachable on WhatsAPP
+LEAD-90270,Emily,Blackwell,emily.blackwell@yahoo.com,"Calderon, Herring and Huynh",LinkedIn,Qualified,93,Finance,rep-110,2025-06-03T05:30:59.422991,Also reachable on WhatsAPP
+LEAD-90271,Nicole,Young,nicole.young@gmail.com,Rodriguez and Sons,Event,Working,72,Healthcare,rep-108,2026-02-20T12:20:38.070445,Forget once hope security door institution.
+LEAD-90272,Scott,King,scott.king@hotmail.com,Wells-Sanchez,LinkedIn,Working,100,Manufacturing,rep-117,2025-06-12T16:46:30.089164,Also reachable on WhatsAPP
+LEAD-90273,Kristen,Thomas,kristen.thomas@yahoo.com,Vazquez Ltd,Referral,Disqualified,87,Healthcare,rep-113,2025-05-29T19:10:05.867938,
+LEAD-90274,Angela,Parker,angela.parker@hotmail.com,Pennington-Hardin,Referral,Disqualified,43,Finance,rep-115,2025-06-21T03:44:26.965658,
+LEAD-90275,Sharon,Sherman,sharon.sherman@yahoo.com,"Sullivan, Johnson and Delacruz",Referral,Working,79,Technology,rep-117,2025-12-28T22:10:54.031757,
+LEAD-90276,Shelby,Ruiz,shelby.ruiz@yahoo.com,Fisher-Daniel,LinkedIn,Working,69,Energy,rep-108,2025-09-19T07:28:38.435347,Response theory star station recognize media.
+LEAD-90277,Mark,Neal,mark.neal@gmail.com,"Torres, Johnston and Rodriguez",Web,Disqualified,67,Technology,rep-117,2025-06-02T10:11:32.833899,Picture social carry husband.
+LEAD-90278,Jennifer,Saunders,jennifer.saunders@hotmail.com,Russo-Anderson,Referral,Disqualified,97,Finance,rep-101,2025-05-05T14:54:10.816107,
+LEAD-90279,Brittany,Murphy,brittany.murphy@yahoo.com,"Walker, Vaughan and Leblanc",LinkedIn,Working,81,Energy,rep-110,2025-10-25T14:36:33.958205,
+LEAD-90280,Courtney,Meadows,courtney.meadows@yahoo.com,Davis LLC,Event,Working,35,Manufacturing,rep-107,2025-05-04T09:29:01.932293,
+LEAD-90281,Ashley,Smith,ashley.smith@hotmail.com,Roberts-Snyder,Event,Qualified,56,Manufacturing,rep-114,2025-04-19T19:31:24.924530,Significant up still management difference data.
+LEAD-90282,Melissa,Greene,melissa.greene@yahoo.com,"Hayes, Wright and Aguilar",Referral,Qualified,85,Manufacturing,rep-114,2025-10-25T15:44:20.958688,Industry impact certainly face energy.
+LEAD-90283,Christopher,Harrison,christopher.harrison@yahoo.com,Williams and Sons,Newsletter,Qualified,46,Healthcare,rep-110,2025-08-22T06:18:29.158591,Also reachable on WhatsAPP
+LEAD-90284,Michael,Obrien,michael.obrien@hotmail.com,"Williams, White and Jackson",LinkedIn,Working,38,Technology,rep-108,2025-08-30T06:20:35.330316,
+LEAD-90285,Matthew,Mcdonald,matthew.mcdonald@gmail.com,Adkins-Howe,Event,Working,62,Energy,rep-112,2025-06-14T14:17:04.569685,Report item employee finish without material.
+LEAD-90286,Natalie,Austin,natalie.austin@yahoo.com,"Fields, Gonzales and Lopez",LinkedIn,Qualified,52,Manufacturing,rep-120,2025-03-23T04:33:00.695448,Fine throughout firm yes shake character table.
+LEAD-90287,Isaac,Harrison,isaac.harrison@gmail.com,Rodriguez-Cortez,Event,Qualified,41,Energy,rep-117,2025-04-26T08:01:50.733426,Job yet until American ground remember magazine.
+LEAD-90288,Michael,Harris,michael.harris@yahoo.com,"Willis, Silva and Bonilla",LinkedIn,New,87,Technology,rep-102,2025-09-11T09:09:08.318009,
+LEAD-90289,Ashley,Butler,ashley.butler@gmail.com,"Martinez, Brooks and Hickman",Newsletter,Working,100,Energy,rep-102,2025-04-11T00:00:39.501878,
+LEAD-90290,Marcus,Johnson,marcus.johnson@yahoo.com,Meza-Cooke,Event,Disqualified,67,Technology,rep-119,2026-01-28T11:42:20.203610,
+LEAD-90291,Laura,Anderson,laura.anderson@gmail.com,Scott-Allen,Newsletter,New,20,Finance,rep-117,2025-12-09T19:33:16.344198,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90292,Raymond,Smith,raymond.smith@gmail.com,Martinez Group,Web,Qualified,88,Healthcare,rep-100,2025-12-20T20:28:53.501074,
+LEAD-90293,Jill,Dorsey,jill.dorsey@hotmail.com,Davis-Henderson,Web,New,87,Energy,rep-107,2025-07-15T18:05:46.254822,
+LEAD-90294,Jacob,Mccoy,jacob.mccoy@gmail.com,"Parks, Moore and Simpson",LinkedIn,Qualified,65,Healthcare,rep-112,2025-10-19T04:47:44.504415,Also reachable on WhatsAPP
+LEAD-90295,Alicia,Roberts,alicia.roberts@yahoo.com,Skinner-Mills,Newsletter,Disqualified,92,Energy,rep-107,2025-06-19T04:20:54.914007,Trade local chance campaign.
+LEAD-90296,Brandon,Jones,brandon.jones@gmail.com,Mack Inc,Web,New,31,Manufacturing,rep-112,2025-04-13T20:57:31.210501,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90297,Dorothy,White,dorothy.white@gmail.com,Hanson-Baker,Newsletter,New,21,Energy,rep-102,2026-02-19T08:15:35.048007,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90298,Monica,Lopez,monica.lopez@gmail.com,"Smith, Foster and Smith",Referral,New,87,Technology,rep-107,2025-10-28T18:49:17.140793,Section page the blood.
+LEAD-90299,Steve,Sullivan,steve.sullivan@hotmail.com,Martinez Inc,LinkedIn,Disqualified,54,Technology,rep-102,2025-05-11T22:45:09.969471,Also reachable on WhatsAPP
+LEAD-90300,Lisa,Horton,lisa.horton@gmail.com,Wilkinson-Garrison,LinkedIn,New,42,Healthcare,rep-100,2025-09-15T23:18:45.871849,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90301,Christopher,Carrillo,christopher.carrillo@gmail.com,Richards-Harris,Event,Disqualified,29,Healthcare,rep-105,2025-09-27T05:43:05.751656,Also reachable on WhatsAPP
+LEAD-90302,Martha,Williams,martha.williams@gmail.com,"Lane, Simon and Duarte",Newsletter,Qualified,69,Energy,rep-102,2025-03-16T18:42:41.479637,Also reachable on phone-no +33 700 05 22
+LEAD-90303,Ricardo,Palmer,ricardo.palmer@hotmail.com,Orozco-Butler,Web,Disqualified,49,Technology,rep-110,2025-08-23T03:23:40.406831,
+LEAD-90304,Troy,Mcmillan,troy.mcmillan@yahoo.com,"Morgan, Guzman and Kirby",Web,Qualified,77,Manufacturing,rep-107,2025-10-29T04:57:53.475718,Recently again explain court gas discussion detail.
+LEAD-90305,David,Carter,david.carter@hotmail.com,Howell LLC,Newsletter,Disqualified,43,Finance,rep-112,2025-11-10T12:42:59.206656,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90306,Christopher,Webb,christopher.webb@gmail.com,Clark Inc,Referral,Working,29,Technology,rep-108,2026-03-03T05:30:41.606560,Also reachable on phone-no +33 700 05 22
+LEAD-90307,Michael,Green,michael.green@hotmail.com,Jordan-Williamson,Event,Disqualified,60,Healthcare,rep-103,2025-04-16T08:08:59.390082,Company teacher me southern.
+LEAD-90308,Jeffrey,Scott,jeffrey.scott@yahoo.com,"Caldwell, Mccarthy and House",Referral,Disqualified,66,Healthcare,rep-103,2025-08-10T04:06:40.789555,
+LEAD-90309,Stephen,Skinner,stephen.skinner@gmail.com,"Williams, Garcia and Soto",Event,Disqualified,77,Finance,rep-117,2026-01-15T08:03:37.086309,
+LEAD-90310,Rhonda,Moore,rhonda.moore@yahoo.com,Allison Group,Web,New,65,Finance,rep-102,2026-02-20T09:49:47.313034,
+LEAD-90311,Kayla,Smith,kayla.smith@yahoo.com,Hernandez PLC,Web,Qualified,72,Manufacturing,rep-102,2025-08-04T06:56:35.426058,Expert commercial entire resource increase picture.
+LEAD-90312,Jeremy,Pham,jeremy.pham@yahoo.com,Robbins PLC,LinkedIn,Working,68,Energy,rep-104,2026-02-10T21:58:26.989884,Also reachable on phone-no +33 700 05 22
+LEAD-90313,Christopher,Edwards,christopher.edwards@gmail.com,"Whitney, Lloyd and Liu",Referral,Disqualified,38,Technology,rep-105,2026-02-21T12:20:30.040745,Article service produce political total around.
+LEAD-90314,Robert,Blackwell,robert.blackwell@hotmail.com,Graves Group,Newsletter,Qualified,81,Technology,rep-111,2025-10-24T10:19:09.603146,Them return finish general still too particular.
+LEAD-90315,Paige,Weber,paige.weber@hotmail.com,Medina Group,Newsletter,Working,78,Technology,rep-104,2025-11-23T02:16:06.692413,
+LEAD-90316,Jody,Martinez,jody.martinez@hotmail.com,Johnson PLC,Newsletter,Qualified,99,Manufacturing,rep-110,2025-10-05T15:58:18.739471,
+LEAD-90317,John,Schroeder,john.schroeder@hotmail.com,Sherman Inc,Newsletter,Working,58,Healthcare,rep-119,2025-08-14T03:44:50.442436,Would book art health phone great.
+LEAD-90318,Ashley,Smith,ashley.smith@yahoo.com,"Richard, Hall and Evans",Referral,Working,70,Healthcare,rep-109,2025-11-01T20:18:32.287434,South writer not thus physical.
+LEAD-90319,Lisa,Armstrong,lisa.armstrong@gmail.com,Thomas Group,Event,Qualified,68,Healthcare,rep-112,2025-12-30T20:06:46.564448,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90320,Christopher,Brown,christopher.brown@gmail.com,"Porter, Henderson and Alexander",LinkedIn,Working,95,Finance,rep-105,2026-02-06T07:27:43.877666,
+LEAD-90321,Tracy,Mcpherson,tracy.mcpherson@gmail.com,"Boyer, Wilson and Lewis",Newsletter,Working,76,Healthcare,rep-102,2025-08-23T03:32:55.495891,Also reachable on phone-no +33 700 05 22
+LEAD-90322,Julie,Raymond,julie.raymond@yahoo.com,Mills Inc,Newsletter,Working,58,Energy,rep-108,2025-07-16T22:25:16.228645,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90323,Vickie,Turner,vickie.turner@yahoo.com,Zuniga LLC,Newsletter,Disqualified,29,Manufacturing,rep-119,2026-01-21T23:29:22.546195,Also reachable on phone-no +33 700 05 22
+LEAD-90324,Jason,Fuentes,jason.fuentes@yahoo.com,Olson-Collins,Newsletter,Disqualified,89,Technology,rep-111,2025-08-15T11:37:59.390218,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90325,Matthew,Bennett,matthew.bennett@hotmail.com,"Beck, Ortiz and Hall",Event,Qualified,41,Finance,rep-101,2025-07-25T16:11:01.821334,
+LEAD-90326,Amber,Rubio,amber.rubio@yahoo.com,"Parker, Brewer and Schneider",Newsletter,New,21,Technology,rep-108,2025-04-03T08:38:59.175537,Position tend religious occur someone.
+LEAD-90327,Stephanie,Weaver,stephanie.weaver@gmail.com,Buchanan-Sanchez,LinkedIn,Working,77,Healthcare,rep-112,2025-11-15T23:30:10.548321,Also reachable on phone-no +33 700 05 22
+LEAD-90328,Pam,Wallace,pam.wallace@hotmail.com,Scott-Wilson,LinkedIn,Working,64,Technology,rep-115,2025-04-08T12:57:44.234038,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90329,Gary,Thomas,gary.thomas@yahoo.com,White-Reeves,Newsletter,New,34,Energy,rep-111,2025-06-20T02:38:14.321720,Child weight question arrive.
+LEAD-90330,Corey,Thomas,corey.thomas@yahoo.com,"Young, Romero and Gordon",Newsletter,Working,86,Manufacturing,rep-111,2026-02-13T00:03:48.985457,Heart still building dark sell.
+LEAD-90331,Joseph,Flores,joseph.flores@hotmail.com,"Leonard, Sanchez and Peters",Newsletter,Disqualified,60,Technology,rep-109,2025-12-15T01:13:35.791578,
+LEAD-90332,Kevin,Russell,kevin.russell@gmail.com,"Hayes, Smith and Marshall",Web,New,63,Technology,rep-105,2025-12-31T04:18:05.458211,Also reachable on phone-no +33 700 05 22
+LEAD-90333,Keith,Stanton,keith.stanton@gmail.com,Kidd-Kirby,Event,Working,62,Finance,rep-113,2025-05-19T23:10:45.062370,Also reachable on phone-no +33 700 05 22
+LEAD-90334,Mary,Campbell,mary.campbell@gmail.com,Clark-Wagner,Newsletter,Working,43,Manufacturing,rep-112,2025-12-21T04:51:45.911173,
+LEAD-90335,Nicole,Dougherty,nicole.dougherty@hotmail.com,Stevens PLC,LinkedIn,Working,77,Finance,rep-113,2025-07-01T05:24:17.531741,Also reachable on phone-no +33 700 05 22
+LEAD-90336,Robin,Anderson,robin.anderson@gmail.com,"Curtis, Ryan and Stafford",Event,Working,55,Technology,rep-118,2025-12-26T07:35:01.663795,
+LEAD-90337,Sean,Martinez,sean.martinez@yahoo.com,Paul LLC,Event,Qualified,61,Energy,rep-114,2025-11-06T19:48:13.023347,Also reachable on phone-no +33 700 05 22
+LEAD-90338,Jenna,Lee,jenna.lee@hotmail.com,Smith Ltd,Newsletter,Qualified,96,Manufacturing,rep-119,2025-07-25T22:13:26.001201,Field response doctor management guy exactly toward religious.
+LEAD-90339,Molly,Carroll,molly.carroll@yahoo.com,"Thompson, Chapman and Reese",Web,Qualified,65,Manufacturing,rep-119,2025-04-18T19:15:22.595091,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90340,Sarah,Foley,sarah.foley@hotmail.com,Becker-Ware,Referral,New,37,Healthcare,rep-103,2025-03-03T23:21:51.309050,Also reachable on phone-no +33 700 05 22
+LEAD-90341,Ronald,Nunez,ronald.nunez@hotmail.com,Hill-Frazier,Web,Working,67,Energy,rep-116,2025-08-20T16:12:53.184482,Take follow such.
+LEAD-90342,Michael,Blake,michael.blake@hotmail.com,Miller-Armstrong,LinkedIn,Working,93,Manufacturing,rep-113,2025-03-12T12:37:54.576771,Another truth mother first hot.
+LEAD-90343,Joan,Spence,joan.spence@yahoo.com,"Davis, Castillo and Morton",LinkedIn,Working,91,Energy,rep-115,2025-10-05T16:12:36.099042,True culture forget as.
+LEAD-90344,Connie,Cook,connie.cook@yahoo.com,Harding PLC,Event,Qualified,77,Finance,rep-101,2025-10-15T13:11:57.229760,
+LEAD-90345,Kathryn,Garrett,kathryn.garrett@hotmail.com,"Brown, Anderson and Ellison",Newsletter,Working,44,Manufacturing,rep-117,2025-08-11T15:58:41.387062,
+LEAD-90346,Kevin,Sims,kevin.sims@gmail.com,Williamson Group,Newsletter,Disqualified,76,Manufacturing,rep-105,2025-05-27T09:37:52.338119,Quality nice far high.
+LEAD-90347,Carol,Keller,carol.keller@gmail.com,Holmes-Matthews,Web,Working,57,Technology,rep-108,2025-04-11T16:59:14.443096,Also reachable on phone-no +33 700 05 22
+LEAD-90348,Alexander,Reeves,alexander.reeves@hotmail.com,"Wallace, Sanchez and Robles",Referral,Working,78,Finance,rep-115,2025-03-25T08:28:43.287883,Also reachable on phone-no +33 700 05 22
+LEAD-90349,Larry,Graham,larry.graham@hotmail.com,Cordova-Holmes,Web,Qualified,89,Healthcare,rep-117,2025-10-29T11:15:52.344658,Also reachable on phone-no +33 700 05 22
+LEAD-90350,Duane,Young,duane.young@hotmail.com,Glover LLC,Newsletter,Working,74,Technology,rep-120,2025-05-11T10:04:22.798056,Also reachable on phone-no +33 700 05 22
+LEAD-90351,Thomas,Holt,thomas.holt@yahoo.com,Crawford Inc,Web,Disqualified,53,Healthcare,rep-102,2025-10-22T13:30:22.174284,Realize system not friend federal forget bit then.
+LEAD-90352,Heather,Owens,heather.owens@gmail.com,Lopez-Fritz,Event,Working,95,Healthcare,rep-119,2025-07-13T18:35:43.891262,
+LEAD-90353,Charles,Johnson,charles.johnson@gmail.com,Hester and Sons,LinkedIn,Working,46,Energy,rep-101,2025-05-14T12:18:50.121100,
+LEAD-90354,Grant,Mcclure,grant.mcclure@hotmail.com,Lozano-Smith,Referral,Working,61,Healthcare,rep-109,2025-11-05T16:36:44.876597,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90355,Nicholas,Cobb,nicholas.cobb@gmail.com,"Keith, Johns and Jones",Web,Working,72,Technology,rep-108,2025-04-25T00:17:09.250953,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90356,Sandra,Norton,sandra.norton@gmail.com,Dickerson LLC,Event,Working,38,Healthcare,rep-107,2025-12-16T15:33:52.418627,Also reachable on phone-no +33 700 05 22
+LEAD-90357,Mark,Brown,mark.brown@yahoo.com,Mueller Ltd,Event,Qualified,100,Manufacturing,rep-112,2025-10-13T20:10:28.318054,Surface why though decide.
+LEAD-90358,Gary,Hughes,gary.hughes@hotmail.com,Adams-Morales,Web,Disqualified,85,Healthcare,rep-111,2026-02-02T17:06:57.911035,
+LEAD-90359,Brandy,Johnson,brandy.johnson@gmail.com,Walls LLC,Referral,New,31,Manufacturing,rep-120,2025-06-04T05:22:11.089313,Later doctor despite interesting help.
+LEAD-90360,Christopher,Walton,christopher.walton@yahoo.com,Ortiz-Ballard,LinkedIn,Disqualified,47,Manufacturing,rep-106,2025-06-27T01:09:08.881827,
+LEAD-90361,Patrick,White,patrick.white@gmail.com,"Miller, Hill and Perez",Referral,Qualified,63,Finance,rep-118,2025-04-15T13:44:25.480600,Population grow bar successful mention.
+LEAD-90362,Michael,Payne,michael.payne@yahoo.com,Thornton and Sons,Newsletter,Qualified,26,Technology,rep-103,2026-03-02T22:00:25.093426,Also reachable on phone-no +33 700 05 22
+LEAD-90363,Karen,Singh,karen.singh@yahoo.com,Bautista-Underwood,Web,Working,76,Manufacturing,rep-100,2025-12-05T00:58:25.248961,
+LEAD-90364,Alexander,Valdez,alexander.valdez@gmail.com,Sharp-Murray,Event,Qualified,40,Healthcare,rep-102,2025-12-17T11:57:48.066639,
+LEAD-90365,Lawrence,Lopez,lawrence.lopez@hotmail.com,"Smith, Cochran and Flowers",Web,Qualified,41,Technology,rep-112,2025-07-05T09:01:39.773110,Decide last next hear officer campaign.
+LEAD-90366,Robert,Jennings,robert.jennings@yahoo.com,"Soto, Morrison and Franklin",Event,Disqualified,31,Technology,rep-100,2026-01-13T21:39:25.777346,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90367,Tina,Harris,tina.harris@yahoo.com,Fowler-Torres,Web,Working,95,Energy,rep-116,2025-05-04T20:53:10.167178,Move could board notice.
+LEAD-90368,Emily,Thompson,emily.thompson@hotmail.com,Wood Inc,Web,Qualified,35,Manufacturing,rep-104,2025-05-05T00:24:37.784457,
+LEAD-90369,Michele,Jenkins,michele.jenkins@gmail.com,Anderson and Sons,Event,Disqualified,31,Technology,rep-103,2025-06-24T09:29:04.436021,
+LEAD-90370,Lisa,Ortega,lisa.ortega@gmail.com,Jacobs-Wright,Referral,Working,68,Energy,rep-120,2025-07-01T09:12:40.067687,Offer financial data respond learn cut yard knowledge.
+LEAD-90371,Ashley,Henry,ashley.henry@yahoo.com,Austin-Patrick,LinkedIn,New,98,Energy,rep-114,2025-05-06T05:20:33.019823,
+LEAD-90372,John,Yoder,john.yoder@hotmail.com,Mcclure and Sons,Event,Working,72,Finance,rep-114,2025-06-11T06:05:04.697132,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90373,Courtney,Carter,courtney.carter@gmail.com,Gordon LLC,Web,Working,35,Finance,rep-112,2025-07-31T01:01:52.338934,
+LEAD-90374,Frederick,Clark,frederick.clark@gmail.com,Smith Inc,Referral,Working,51,Healthcare,rep-120,2025-11-17T06:01:28.034650,Ago police put left gas human create.
+LEAD-90375,Derek,Santiago,derek.santiago@yahoo.com,Jackson Inc,LinkedIn,Qualified,23,Healthcare,rep-106,2025-10-10T22:56:36.661901,
+LEAD-90376,Gregory,Martinez,gregory.martinez@hotmail.com,"Johnson, Leonard and Robinson",Newsletter,Qualified,26,Energy,rep-115,2025-11-12T17:42:13.829085,Also reachable on phone-no +33 700 05 22
+LEAD-90377,Mary,Cain,mary.cain@hotmail.com,Wang-Mcfarland,Event,Disqualified,96,Technology,rep-116,2025-07-18T02:16:23.001619,
+LEAD-90378,John,Davis,john.davis@yahoo.com,"Brown, Benjamin and Davis",Referral,Working,69,Finance,rep-113,2026-01-02T09:00:45.519066,Writer front court.
+LEAD-90379,Elizabeth,Ramsey,elizabeth.ramsey@gmail.com,Mcmillan-Martinez,Event,Disqualified,29,Technology,rep-118,2025-05-20T08:10:17.602174,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90380,Michael,Thompson,michael.thompson@yahoo.com,Jones and Sons,Referral,Working,25,Technology,rep-112,2025-07-31T09:48:13.320708,
+LEAD-90381,Katrina,Porter,katrina.porter@gmail.com,Gregory-Compton,LinkedIn,Disqualified,74,Manufacturing,rep-102,2025-11-11T15:13:01.377726,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90382,Martin,Reid,martin.reid@hotmail.com,"Davidson, Hall and Matthews",Web,Qualified,30,Finance,rep-106,2026-02-27T06:08:13.004111,Within project attack adult treatment large.
+LEAD-90383,Jesse,Jensen,jesse.jensen@gmail.com,Phillips-Hernandez,Referral,Disqualified,95,Technology,rep-109,2025-05-16T21:49:12.904118,Also reachable on phone-no +33 700 05 22
+LEAD-90384,Benjamin,Mclean,benjamin.mclean@hotmail.com,Wong-Roberts,Event,New,51,Technology,rep-113,2025-03-11T21:55:03.232106,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90385,Melanie,Rivera,melanie.rivera@gmail.com,"Walker, Salas and Boyd",LinkedIn,New,59,Energy,rep-103,2025-05-09T07:08:35.052294,Much trade professor eat reach.
+LEAD-90386,Crystal,Brown,crystal.brown@yahoo.com,Davis PLC,Event,New,40,Manufacturing,rep-111,2025-09-19T17:17:22.050782,Also reachable on phone-no +33 700 05 22
+LEAD-90387,Laura,Harris,laura.harris@hotmail.com,Thompson-Wright,Referral,Working,54,Technology,rep-100,2025-06-15T11:33:44.817128,
+LEAD-90388,Shane,Reid,shane.reid@yahoo.com,Weiss Group,Referral,New,53,Finance,rep-120,2025-03-10T11:53:11.930939,Bag win huge cold kid measure same.
+LEAD-90389,Patrick,Dickerson,patrick.dickerson@yahoo.com,Taylor-Harrison,Newsletter,Qualified,27,Manufacturing,rep-118,2025-04-28T18:30:17.802689,Mr need compare herself figure exist no lose.
+LEAD-90390,Jake,Smith,jake.smith@hotmail.com,"Archer, Jones and Dyer",Event,Qualified,33,Finance,rep-103,2026-02-28T18:00:10.698525,Man understand wait wife health majority.
+LEAD-90391,David,Frederick,david.frederick@gmail.com,"Burns, Barker and Horton",LinkedIn,New,25,Technology,rep-107,2025-10-26T23:54:58.365112,Also reachable on phone-no +33 700 05 22
+LEAD-90392,Sara,Fitzgerald,sara.fitzgerald@gmail.com,Blackburn-Hernandez,Referral,Disqualified,39,Energy,rep-101,2025-06-01T15:00:22.590179,Alone spend piece put recently population end.
+LEAD-90393,Beth,Bates,beth.bates@gmail.com,Sanders-Willis,Referral,Working,73,Healthcare,rep-108,2026-01-26T08:08:20.864073,
+LEAD-90394,April,Lopez,april.lopez@yahoo.com,"Tanner, Willis and Gross",Referral,New,84,Technology,rep-105,2025-12-03T02:07:51.638022,Also reachable on phone-no +33 700 05 22
+LEAD-90395,Sandra,Booth,sandra.booth@gmail.com,Velasquez Inc,Web,Disqualified,28,Manufacturing,rep-109,2025-04-07T15:22:20.884860,Also reachable on phone-no +33 700 05 22
+LEAD-90396,Kim,Butler,kim.butler@yahoo.com,Shaw Inc,Web,Disqualified,21,Healthcare,rep-106,2025-08-14T20:36:42.395625,Run color hear region cup.
+LEAD-90397,Lisa,Lopez,lisa.lopez@gmail.com,Sims-Weber,Referral,Working,79,Healthcare,rep-118,2026-01-14T10:04:49.131307,"Is thinking about moving company, but is very interested. Private email-address dontshare@example.org"
+LEAD-90398,Gabriel,Carter,gabriel.carter@yahoo.com,"Hodges, Smith and Adams",LinkedIn,Working,39,Technology,rep-113,2026-02-15T03:24:06.598105,
+LEAD-90399,Elizabeth,Mccormick,elizabeth.mccormick@gmail.com,Frederick-Kennedy,LinkedIn,Qualified,21,Healthcare,rep-100,2025-07-04T08:33:04.731670,
