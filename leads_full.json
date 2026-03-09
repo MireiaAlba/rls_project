@@ -1,5 +1,4 @@
-[
-  {
+ {
     "lead_id": "LEAD-90000",
     "first_name": "Herrera",
     "last_name": "Vincent",
@@ -5598,5 +5597,4 @@
     "assigned_to": "rep-100",
     "created_date": "2025-07-04T08:33:04.731670",
     "comments": null
-  }
-]
+  }\n
